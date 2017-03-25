@@ -23,6 +23,6 @@ var graphviz = dependencies.ToGraphViz();
 
 Result example:
 
-![Dependency Graph](http://mikhail.test/2017/03/visualizing-dependency-tree-from-di-container/class-dependency-graph.png)
+![Dependency Graph](http://mikhail.io/2017/03/visualizing-dependency-tree-from-di-container/class-dependency-graph.png)
 
 Read more in [Visualizing Dependency Tree from DI Container](http://mikhail.io/2017/03/visualizing-dependency-tree-from-di-container/).
