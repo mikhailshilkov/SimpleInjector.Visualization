@@ -2,7 +2,7 @@
 
 Visualize dependency tree configured in SimpleInjector DI container.
 
-Usage example:
+### Usage example
 
 ``` cs
 // 1. Initialize the DI container and do the registrations
@@ -21,8 +21,10 @@ var graphviz = dependencies.ToGraphViz();
 [webgraphviz.com](http://webgraphviz.com))
 ```
 
-Result example:
+### Result example
 
 ![Dependency Graph](http://mikhail.io/2017/03/visualizing-dependency-tree-from-di-container/class-dependency-graph.png)
 
-Read more in [Visualizing Dependency Tree from DI Container](http://mikhail.io/2017/03/visualizing-dependency-tree-from-di-container/).
+### Read more
+
+[Visualizing Dependency Tree from DI Container](http://mikhail.io/2017/03/visualizing-dependency-tree-from-di-container/).
